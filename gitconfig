@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = felix.medina.lopez1@gmail.com
+	name = felix medina lopez
